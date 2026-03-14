@@ -188,6 +188,10 @@ Esses insights apoiam decisões relacionadas a:
 
 ![Dashboard Preview](images/comercial-novacasa-retail.png)
 
+# 🗂️ Modelo de Dados
+
+![Modelo de Dados](images/modelo-dados-comercial-novacasa-retail.png)
+
 ## Documentação das Medidas
 
 Para consultar a documentação das medidas deste projeto, suas fórmulas e descrições, acesse a [Documentação das Medidas](docs/medidas-documentacao.md).
